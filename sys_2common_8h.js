@@ -22,7 +22,6 @@ var sys_2common_8h =
     [ "info_line", "sys_2common_8h.html#a900f4a34f3fd50e06d9e3f6dbc1dbbed", null ],
     [ "info_time", "sys_2common_8h.html#af752dd4571ccba7677d3bda718be99c6", null ],
     [ "info", "sys_2common_8h.html#a71ca8e156af74e00cb46374435f5fb4b", null ],
-    [ "info_color", "sys_2common_8h.html#af128303eff825da1badc4881f8cb7de6", null ],
     [ "info2", "sys_2common_8h.html#a57551296bf9e99969b62d6c06c1aed51", null ],
     [ "info3", "sys_2common_8h.html#aa30612d0b25f8f68181596f70d352efb", null ],
     [ "info_once", "sys_2common_8h.html#aecfbb1e9291f15553ecf346710b28398", null ],
